@@ -1,0 +1,422 @@
+[
+    {
+        "name": "7S Music",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",
+        "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
+        "category": "Music",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "B4U Kadak",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png",
+        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+        "category": "Music",
+        "language": {
+            "code": "",
+            "name": "Hindi"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "B4U KADAK",
+        "logo": "",
+        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Amrita TV",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png",
+        "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Asianet News",
+        "logo": "https://i.imgur.com/89LBgkl.png",
+        "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
+        "category": "News",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "BBC World News",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png",
+        "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+        "category": "News",
+        "language": {
+            "code": "",
+            "name": "English"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "CNN",
+        "logo": "",
+        "url": "http://203.162.235.41:16918",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Jaihind TV",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png",
+        "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Flowers TV",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg",
+        "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kairali",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png",
+        "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Mathrubhumi News",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/mathrubhumi_news.png",
+        "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
+        "category": "News",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Akaram Kidz",
+        "logo": "https://i.imgur.com/hAgaVPa.jpg",
+        "url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+        "category": "Kids",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD National",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png",
+        "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Hindi"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "ACN Music",
+        "logo": "",
+        "url": "http://ammacable.com:1935/acn/acnmusic/playlist.m3u8",
+        "category": "Music",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Mazhavil Manorama HD",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png",
+        "url": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Malayalam"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "MK TV",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",
+        "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "MK Tunes",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",
+        "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "MK Six",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",
+        "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "7Star TV",
+        "logo": "https://i.imgur.com/EaHWWNl.jpg",
+        "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8",
+        "category": "Entertainment",
+        "language": {
+            "code": "",
+            "name": "Tamil"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "5aab TV",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg",
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": "Hindi"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Sony Movies",
+        "logo": "",
+        "url": "http://51.52.156.22:8888/http/009",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": "English"
+        },
+        "country": {
+            "code": "IN",
+            "name": "India"
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    }
+]
