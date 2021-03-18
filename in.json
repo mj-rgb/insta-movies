@@ -1,509 +1,9 @@
 [
     {
-        "name": "7S Music",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Amrita TV",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "B4U Kadak",
-        "logo": "",
-        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Asianet News",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Channel T1",
-        "logo": "",
-        "url": "http://128.199.212.160/channelt1/1080/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "DD Malayalam",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "DD National",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "DD Sports",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Flowers TV",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Jaihind TV",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Jeevan TV",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Kairali News",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Kairali TV",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "******************* INDIA ***********",
-        "logo": "",
-        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
-        "category": "",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "******************** INDIA ***********",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Kairali We",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Kalaignar",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "5aab TV",
-        "logo": "",
-        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Kappa TV",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
         "name": "Kasthuri TV",
         "logo": "",
         "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Mangalam TV",
-        "logo": "",
-        "url": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Mastiii",
-        "logo": "",
-        "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Manorama News",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Mazhavil Manorama HD",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "MK TV",
-        "logo": "",
-        "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "TV9 Telugu",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Mathrubhumi News",
-        "logo": "",
-        "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
-        "category": "INDIA",
+        "category": "",
         "language": {
             "code": "",
             "name": ""
@@ -523,7 +23,7 @@
         "name": "MK Six",
         "logo": "",
         "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
-        "category": "INDIA",
+        "category": "",
         "language": {
             "code": "",
             "name": ""
@@ -540,10 +40,10 @@
         "status": "GOOD"
     },
     {
-        "name": "MK Tunes",
+        "name": "MK TV",
         "logo": "",
-        "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
-        "category": "INDIA",
+        "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
+        "category": "",
         "language": {
             "code": "",
             "name": ""
@@ -563,7 +63,7 @@
         "name": "Puthuyugam TV",
         "logo": "",
         "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8",
-        "category": "INDIA",
+        "category": "",
         "language": {
             "code": "",
             "name": ""
@@ -580,10 +80,10 @@
         "status": "GOOD"
     },
     {
-        "name": "Public Music",
+        "name": "Kairali TV",
         "logo": "",
-        "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
-        "category": "INDIA",
+        "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+        "category": "",
         "language": {
             "code": "",
             "name": ""
@@ -600,10 +100,10 @@
         "status": "GOOD"
     },
     {
-        "name": "Reporter TV",
+        "name": "BBC World News",
         "logo": "",
-        "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
-        "category": "INDIA",
+        "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+        "category": "",
         "language": {
             "code": "",
             "name": ""
@@ -614,66 +114,6 @@
         },
         "tvg": {
             "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Twenty Four News",
-        "logo": "",
-        "url": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "Sardari TV",
-        "logo": "",
-        "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "",
-            "name": "",
-            "url": ""
-        },
-        "status": "GOOD"
-    },
-    {
-        "name": "AajTak HD",
-        "logo": "",
-        "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
-        "category": "INDIA",
-        "language": {
-            "code": "",
-            "name": ""
-        },
-        "country": {
-            "code": "",
-            "name": ""
-        },
-        "tvg": {
-            "id": "AajTak HD",
             "name": "",
             "url": ""
         },
