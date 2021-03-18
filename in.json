@@ -1,5 +1,345 @@
 [
     {
+        "name": "Amrita TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "7S Music",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Asianet News",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "BBC World News",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD Sports",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD National",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD Sports",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD Malayalam",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Flowers TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Jaihind TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Jeevan TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kairali",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kairali News",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kairali We",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kairali TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kalaignar",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Kappa TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
         "name": "Kasthuri TV",
         "logo": "",
         "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
@@ -20,9 +360,89 @@
         "status": "GOOD"
     },
     {
+        "name": "Mangalam TV",
+        "logo": "",
+        "url": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Mastiii",
+        "logo": "",
+        "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
         "name": "MK Six",
         "logo": "",
         "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Manorama News",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "MK Tunes",
+        "logo": "",
+        "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
         "category": "",
         "language": {
             "code": "",
@@ -80,9 +500,149 @@
         "status": "GOOD"
     },
     {
-        "name": "Kairali TV",
+        "name": "Mathrubhumi News",
         "logo": "",
-        "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+        "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Mazhavil Manorama HD",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Media One",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Twenty Four News",
+        "logo": "",
+        "url": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "5aab TV",
+        "logo": "",
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Public Music",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Reporter TV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "TV9 Telugu",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8",
         "category": "",
         "language": {
             "code": "",
@@ -103,6 +663,506 @@
         "name": "BBC World News",
         "logo": "",
         "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD National",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "GOLF NETWORK",
+        "logo": "",
+        "url": "http://203.162.235.41:16924",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD Sports",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "B4U Kadak",
+        "logo": "",
+        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "KalaignarTV",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Sardari TV",
+        "logo": "",
+        "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Ads sport cricket",
+        "logo": "",
+        "url": "http://212.47.252.54/hls/stream.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "BBC News",
+        "logo": "",
+        "url": "http://51.52.156.22:8888/http/004",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Sony Movies",
+        "logo": "",
+        "url": "http://51.52.156.22:8888/http/009",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "One Golf",
+        "logo": "",
+        "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Alif TV",
+        "logo": "",
+        "url": "http://128.199.212.160/alif/1080/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "ITV Bangla",
+        "logo": "",
+        "url": "http://162.244.81.142:1935/live/livestream/playlist.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Channel T1",
+        "logo": "",
+        "url": "http://128.199.212.160/channelt1/1080/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD National",
+        "logo": "",
+        "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "FASTWAY NEWS",
+        "logo": "",
+        "url": "http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Ads sport cricket",
+        "logo": "",
+        "url": "http://212.47.252.54/hls/stream.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "BBC News",
+        "logo": "",
+        "url": "http://51.52.156.22:8888/http/004",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Ayush TV",
+        "logo": "",
+        "url": "http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Akaal TV",
+        "logo": "",
+        "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "American Horrors",
+        "logo": "",
+        "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "ABP Asmita",
+        "logo": "",
+        "url": "http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "Boogle Bollywood",
+        "logo": "",
+        "url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8",
+        "category": "",
+        "language": {
+            "code": "",
+            "name": ""
+        },
+        "country": {
+            "code": "",
+            "name": ""
+        },
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": ""
+        },
+        "status": "GOOD"
+    },
+    {
+        "name": "DD News",
+        "logo": "",
+        "url": "http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8",
         "category": "",
         "language": {
             "code": "",
