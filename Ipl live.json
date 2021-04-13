@@ -10,7 +10,7 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/UmHcfW0.jpg",
-		"name":"IPL 2021",
+		"name":"Server 1",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
@@ -29,15 +29,15 @@
 			"code":"",
 			"name":""
 		},
-		"logo":"https://i.imgur.com/8FaT8z8.jpg",
-		"name":"Star Sports 2 HD",
+		"logo":"https://i.imgur.com/UmHcfW0.jpg",
+		"name":"Server 2",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
 			"name":"",
 			"url":""
 		},
-		"url":"http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8"
+		"url":"https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_0/index2.m3u8"
 	},
 	{
 		"category":"",
@@ -49,14 +49,14 @@
 			"code":"",
 			"name":""
 		},
-		"logo":"https://i.imgur.com/ylOJCnR.jpg",
-		"name":"Star Sports Select 1 HD",
+		"logo":"https://i.imgur.com/UmHcfW0.jpg",
+		"name":"Server 3",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
 			"name":"",
 			"url":""
 		},
-		"url":"http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8"
+		"url":"http://212.8.253.172:2052/FLOWSPORTS24-7FHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796443"
 	}
 ]
