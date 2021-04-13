@@ -10,14 +10,14 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/UmHcfW0.jpg",
-		"name":"IPL2021",
+		"name":"IPL 2021",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
 			"name":"",
 			"url":""
 		},
-		"url":"https://media.publit.io/file/Polish_20210410_110028010.mp4"
+		"url":"http://pie.buzz:83/live/Peter.nyr1909/6547736256/379959.ts"
 	},
 	{
 		"category":"",
@@ -30,7 +30,7 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/8FaT8z8.jpg",
-		"name":"StarSports2HD",
+		"name":"Star Sports 2 HD",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
@@ -50,7 +50,7 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/ylOJCnR.jpg",
-		"name":"StarSportsSelect1HD",
+		"name":"Star Sports Select 1 HD",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
