@@ -10,7 +10,27 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/UmHcfW0.jpg",
-		"name":"Server 1",
+		"name":"English 1",
+		"status":"GOOD",
+		"tvg":{
+			"id":"",
+			"name":"",
+			"url":""
+		},
+		"url":"https://rootercwpoc.akamaized.net/hls/1c7b480d0ee2707e398781173df1b8f4/hd720.m3u8"
+	},
+	{
+		"category":"",
+		"country":{
+			"code":"",
+			"name":""
+		},
+		"language":{
+			"code":"",
+			"name":""
+		},
+		"logo":"https://i.imgur.com/UmHcfW0.jpg",
+		"name":"English 2",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
@@ -30,7 +50,27 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/UmHcfW0.jpg",
-		"name":"Server 2",
+		"name":"Hindi 1",
+		"status":"GOOD",
+		"tvg":{
+			"id":"",
+			"name":"",
+			"url":""
+		},
+		"url":"https://rootercwpoc.akamaized.net/hls/c091b07c9b13a198dea6d506cce5e68c/hd720.m3u8"
+	},
+	{
+		"category":"",
+		"country":{
+			"code":"",
+			"name":""
+		},
+		"language":{
+			"code":"",
+			"name":""
+		},
+		"logo":"https://i.imgur.com/UmHcfW0.jpg",
+		"name":"Hindi 2",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
@@ -50,7 +90,7 @@
 			"name":""
 		},
 		"logo":"https://i.imgur.com/UmHcfW0.jpg",
-		"name":"Server 3",
+		"name":"Server 5",
 		"status":"GOOD",
 		"tvg":{
 			"id":"",
